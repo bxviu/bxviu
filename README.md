@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋
+
+- 🔭 I’m currently working on assignments for school.
+- 🌱 This Quarter, I’m learning about functional programming, full stack web development, and advanced game design.
 
 <!--
 **bxviu/bxviu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
