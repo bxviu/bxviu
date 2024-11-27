@@ -1,7 +1,8 @@
 ### Hello 👋
 
+- ⚡ This Quarter, I am learning about applied deep learning, rapid prototyping, and technical culture
 - 🔭 I'm currently working as an intern over the summer.
-- 🤔 Last Quarter, I'm learning about computer architecture, UI/UX, and computer graphics.
+- 🤔 Last Quarter, I learned about computer architecture, UI/UX, and computer graphics.
 - 🌱 Last Last Quarter, I learned about functional programming, full stack web development, and advanced game design.
 
 <!--
