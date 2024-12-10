@@ -1,7 +1,7 @@
 ### Hello 👋
 
-- ⚡ This Quarter, I am learning about applied deep learning, rapid prototyping, and technical culture
-- 🔭 I'm currently working as an intern over the summer.
+- ⚡ This Quarter, I am learning about applied deep learning, rapid prototyping, and technical culture.
+- 🔭 I worked as an intern over the summer using Typescript and Tailwind CSS to create a web portal for a startup's clients.
 - 🤔 Last Quarter, I learned about computer architecture, UI/UX, and computer graphics.
 - 🌱 Last Last Quarter, I learned about functional programming, full stack web development, and advanced game design.
 
