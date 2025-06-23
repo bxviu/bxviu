@@ -1,9 +1,10 @@
 ### Hello 👋
-- ✨ Now I am learning about Distributed Systems, Database Systems, and Making a Vertical Slice of a Game.
-- ⚡ Previous Quarter, I am learning about applied deep learning, rapid prototyping, and technical culture.
+- 😄 My Last Quarter of college, I created a Full Stack Application and learned about Computer Vision
+- ✨ Winter Quarter 2025, I learned about Distributed Systems, Database Systems, and Making a Vertical Slice of a Game.
+- ⚡ Fall Quarter 2024, I learned about applied deep learning, rapid prototyping, and technical culture.
 - 🔭 I worked as an intern over the summer using Typescript and Tailwind CSS to create a web portal for a startup's clients.
-- 🤔 Last Quarter, I learned about computer architecture, UI/UX, and computer graphics.
-- 🌱 Last Last Quarter, I learned about functional programming, full stack web development, and advanced game design.
+- 🤔 Spring Quarter 2024, I learned about computer architecture, UI/UX, and computer graphics.
+- 🌱 Winter Quarter 2024, I learned about functional programming, full stack web development, and advanced game design.
 
 <!--
 **bxviu/bxviu** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
